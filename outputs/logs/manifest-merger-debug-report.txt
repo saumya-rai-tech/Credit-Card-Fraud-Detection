@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
 MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\Saumya\.gradle\caches\transforms-3\1a303874603442d31f6ee8fe7dcb18c7\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\Saumya\.gradle\caches\transforms-3\cef682f51860c44c113467fb22ceb6ff\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\Saumya\.gradle\caches\transforms-3\813345eb504f680a3545dd04c623c665\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:17:1-22:12
@@ -66,35 +66,35 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Saumya\.gradle\c
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Saumya\.gradle\caches\transforms-3\30559646bdc9f3290097ba378eb99203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Saumya\.gradle\caches\transforms-3\b618f929228947d1fd03b4a852d85b00\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Saumya\.gradle\caches\transforms-3\b521f32a8ca2115704fce9eaa65230c1\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
 	package
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:3:5-30
-		INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
-		INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
+		INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
-		INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
+		INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
-		INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
+		INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:5:5-79
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:5:5-79
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:5:22-76
 uses-permission#android.permission.INTERNET
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:6:5-67
 MERGED from [com.github.mergehez:ArgPlayer:v3.1] C:\Users\Saumya\.gradle\caches\transforms-3\90f68c52f5855093c7145273eba5a107\transformed\jetified-ArgPlayer-v3.1\AndroidManifest.xml:10:5-67
 MERGED from [com.github.mergehez:ArgPlayer:v3.1] C:\Users\Saumya\.gradle\caches\transforms-3\90f68c52f5855093c7145273eba5a107\transformed\jetified-ArgPlayer-v3.1\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:8:5-57:19
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:8:5-57:19
 MERGED from [com.github.mergehez:ArgPlayer:v3.1] C:\Users\Saumya\.gradle\caches\transforms-3\90f68c52f5855093c7145273eba5a107\transformed\jetified-ArgPlayer-v3.1\AndroidManifest.xml:13:5-42:19
 MERGED from [com.github.mergehez:ArgPlayer:v3.1] C:\Users\Saumya\.gradle\caches\transforms-3\90f68c52f5855093c7145273eba5a107\transformed\jetified-ArgPlayer-v3.1\AndroidManifest.xml:13:5-42:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\Saumya\.gradle\caches\transforms-3\e6a6b98a5bf4cf452a4bc3a3002b3bc1\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
@@ -116,105 +116,105 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sa
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Saumya\.gradle\caches\transforms-3\46500c3b5c1ccf84767a89139e7d74da\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Saumya\.gradle\caches\transforms-3\46500c3b5c1ccf84767a89139e7d74da\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 	android:requestLegacyExternalStorage
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:14:9-52
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:14:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Saumya\.gradle\caches\transforms-3\9339927e08badd09bc5459e4ba900d5f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:15:9-54
 	android:largeHeap
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:12:9-33
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:12:9-33
 	android:icon
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:17:9-49
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:17:9-49
 	android:networkSecurityConfig
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:13:9-69
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:13:9-69
 	android:usesCleartextTraffic
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:18:9-44
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:18:9-44
 activity#com.example.fds.activity.FinalActivity
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:19:9-23:68
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:19:9-23:68
 	android:label
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:22:13-57
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:22:13-57
 	android:exported
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:21:13-37
 	android:theme
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:23:13-65
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:23:13-65
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:20:13-51
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:20:13-51
 activity#com.example.fds.activity.CardActivity
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:24:9-26:40
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:24:9-26:40
 	android:exported
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:26:13-37
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:25:13-50
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:25:13-50
 activity#com.example.fds.BottomNavigation
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:27:9-30:72
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:27:9-30:72
 	android:label
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:30:13-69
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:30:13-69
 	android:exported
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:29:13-37
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:28:13-45
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:28:13-45
 activity#com.example.fds.activity.LoginActivity
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:31:9-40:20
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:31:9-40:20
 	android:exported
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:33:13-36
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:33:13-36
 	android:theme
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:34:13-69
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:34:13-69
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:32:13-51
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:32:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:35:13-39:29
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:38:27-74
 activity#com.example.fds.activity.MainActivity
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:41:9-43:40
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:41:9-43:40
 	android:exported
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:43:13-37
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:43:13-37
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:42:13-50
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:42:13-50
 activity#com.example.fds.activity.SearchActivty
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:44:9-46:40
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:44:9-46:40
 	android:exported
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:46:13-37
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:46:13-37
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:45:13-51
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:45:13-51
 activity#com.example.fds.ui.songs.SongFragment
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:47:9-49:40
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:47:9-49:40
 	android:exported
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:49:13-37
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:49:13-37
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:48:13-50
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:48:13-50
 activity#com.example.fds.activity.FullScreenAudioPlayer
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:50:9-52:40
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:50:9-52:40
 	android:exported
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:52:13-37
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:52:13-37
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:51:13-59
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:51:13-59
 activity#com.example.fds.activity.SignupActivity
-ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:53:9-56:72
+ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:53:9-56:72
 	android:exported
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:55:13-37
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:55:13-37
 	android:theme
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:56:13-69
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:56:13-69
 	android:name
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml:54:13-52
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml:54:13-52
 uses-sdk
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\Saumya\.gradle\caches\transforms-3\1a303874603442d31f6ee8fe7dcb18c7\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\Saumya\.gradle\caches\transforms-3\1a303874603442d31f6ee8fe7dcb18c7\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\Saumya\.gradle\caches\transforms-3\cef682f51860c44c113467fb22ceb6ff\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:20:5-44
@@ -339,16 +339,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Saumya\.gradle\caches\transfor
 MERGED from [androidx.print:print:1.0.0] C:\Users\Saumya\.gradle\caches\transforms-3\b618f929228947d1fd03b4a852d85b00\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Saumya\.gradle\caches\transforms-3\b521f32a8ca2115704fce9eaa65230c1\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Saumya\.gradle\caches\transforms-3\b521f32a8ca2115704fce9eaa65230c1\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
-INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
+INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
-		INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
+		INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
+		INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
-		ADDED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
-		INJECTED from G:\Final Year Project 2022\bitech-2022 (1)\bitech-2022\app\src\main\AndroidManifest.xml
+		INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
+		ADDED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
+		INJECTED from F:\bitech-2022 (2)\bitech-2022\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.DISABLE_KEYGUARD
 ADDED from [com.github.mergehez:ArgPlayer:v3.1] C:\Users\Saumya\.gradle\caches\transforms-3\90f68c52f5855093c7145273eba5a107\transformed\jetified-ArgPlayer-v3.1\AndroidManifest.xml:9:5-75
 	android:name
